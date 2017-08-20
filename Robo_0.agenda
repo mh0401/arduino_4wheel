@@ -1,0 +1,26 @@
+CAD
+1. Get SW for CAD + Mechanical simulation = FreeCAD
+2. Find out about Python extension for FreeCAD
+3. Finish modeling of all components in Python/FreeCAD
+4. Dont forget to add breadboard for voltage divider
+
+Electrical
+1. Get SW for circuit simulation -> QUCS
+2. Draw and simulate stall of DC motor??
+
+Shop
+1. LP micro gearmotor?? (2)
+2. Motor extended bracket pair (1)
+3. Robotshop analog distance sensor bracket (2)
+4. OnlineMetals 0.125" (thick) x 1.25" (width) x 12" (length)
+5. Tamiya 3mm threaded shaft 150mm (1)
+5. Spacer 3M x 1" (4) -- 2 extra
+
+Assembly
+Extra steps for assembly:
+1. Add mini voltage divider for motor shield
+2. Cut internal Vin in Arduino Motor Shield
+
+Discrete test
+1. Test motor with arduino (Fwd, Reverse, Brake, current sensing, etc.)
+2. Test wifi with arduino
